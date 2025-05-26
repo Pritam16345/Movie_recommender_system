@@ -3,6 +3,7 @@
 This is a simple and effective Content-Based Movie Recommender System built using Python and Streamlit, which allows users to get quick movie recommendations based on the one they select. The system uses cosine similarity on feature vectors and includes direct links to TMDb for each recommended movie.
 
 
+
 ✨ Features
 
 🔎 Recommends 5 movies similar to the one selected
@@ -16,6 +17,7 @@ This is a simple and effective Content-Based Movie Recommender System built usin
 🧪 Efficient backend using preprocessed .pkl files for fast response
 
 
+
 ⚙️ Tech Stack
 
 Frontend: Streamlit
@@ -27,6 +29,7 @@ Libraries: pandas, pickle, streamlit
 Data Source: Preprocessed movie metadata + similarity matrix
 
 API Integration: Direct TMDb links for additional info
+
 
 
 📦 Files Overview
