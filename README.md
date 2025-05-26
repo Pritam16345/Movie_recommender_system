@@ -4,7 +4,7 @@ This is a simple and effective Content-Based Movie Recommender System built usin
 
 
 
-✨ Features
+✨ Features :-
 
 🔎 Recommends 5 movies similar to the one selected
 
@@ -18,7 +18,7 @@ This is a simple and effective Content-Based Movie Recommender System built usin
 
 
 
-⚙️ Tech Stack
+⚙️ Tech Stack :-
 
 Frontend: Streamlit
 
@@ -32,7 +32,7 @@ API Integration: Direct TMDb links for additional info
 
 
 
-📦 Files Overview
+📦 Files Overview :-
 
 app.py — Main Streamlit application
 
